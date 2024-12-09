@@ -17,6 +17,10 @@ description: |
 website: https://github.com/Riccardo0002/bitrise-step-bitrise-setup-vars
 source_code_url: https://github.com/Riccardo0002/bitrise-step-bitrise-setup-vars
 support_url: https://github.com/Riccardo0002/bitrise-step-bitrise-setup-vars/issues
+published_at: 2023-04-24T15:17:29.28468+02:00
+source:
+  git: https://github.com/Riccardo0002/bitrise-step-bitrise-setup-vars.git
+  commit: ce03e6553f8f5633911acdac8db9c253637d5183
 
 # If this step should be available only for certain project types
 # just uncomment this `project_type_tags` section and include all the
